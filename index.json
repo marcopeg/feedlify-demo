@@ -4,11 +4,11 @@
       "ref": "general",
       "name": "general",
       "ctime": "2019-04-07T07:15:20.864Z",
-      "mtime": "2019-04-07T12:16:22.838Z",
+      "mtime": "2019-04-07T15:33:19.265Z",
       "from": "2019-03-02T18:20:20.000Z",
       "to": "2019-04-07T11:44:04.000Z",
-      "count": 1440,
-      "data_files_count": 15
+      "count": 1552,
+      "data_files_count": 16
     }
   ]
 }
