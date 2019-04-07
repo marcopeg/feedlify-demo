@@ -1,0 +1,1824 @@
+{
+  "timeline": [
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::addyosmani",
+      "ctime": "2019-04-07T06:31:02.000Z",
+      "title": "Tweet by @addyosmani",
+      "text": "Native <img> lazy-loading is coming to the web! https://bit.ly/loading-attribute … <img loading=lazy> defers offscreen images until the user scrolls near them. Shipping in Chrome ~75 https://bit.ly/loading-i2s ",
+      "url": "https://bit.ly/loading-attribute",
+      "preview": "https://pbs.twimg.com/media/D3h8TW4UwAAj1jX.png",
+      "hashtags": [],
+      "origin": "twitter::addyosmani"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::MinaMarkham",
+      "ctime": "2019-04-07T02:45:22.000Z",
+      "title": "Tweet by @MinaMarkham",
+      "text": "I’m a December baby.\n\nWhere do I pick up my check?",
+      "url": "https://twitter.com/iskinnylegendz/status/1114650676624281600",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::MinaMarkham"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::JavaScriptDaily",
+      "ctime": "2019-04-06T22:03:01.000Z",
+      "title": "Tweet by @JavaScriptDaily",
+      "text": "Mouthful: Generate a Concatenated File of All CSS Used on a Given Site - https://github.com/MikaeI/mouthful  \n\n(It's pretty neat just how short the code is for doing this.)",
+      "url": "https://github.com/MikaeI/mouthful",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::JavaScriptDaily"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::kemitchell",
+      "ctime": "2019-04-06T19:32:55.000Z",
+      "title": "Tweet by @kemitchell",
+      "text": "",
+      "url": "https://github.com/kemitchell/sales-support-deal-intro-questionnaire/blob/master/questionnaire.md",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::matteocollina"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::mikeal",
+      "ctime": "2019-04-06T19:06:02.000Z",
+      "title": "Tweet by @mikeal",
+      "text": "JavaScript's lack of immutability features has become a rather annoying part of the language for me lately. Not much to offer and what it does offer comes with perf hits.",
+      "url": "https://twitter.com/mikeal/status/1114605197953654784",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::matteocollina"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::JavaScriptDaily",
+      "ctime": "2019-04-06T18:47:00.000Z",
+      "title": "Tweet by @JavaScriptDaily",
+      "text": "Why I Publish and Manage Shared JavaScript Code with Bit:",
+      "url": "https://blog.bitsrc.io/why-i-publish-and-manage-shared-javascript-code-with-bit-90a6a91879ac",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::JavaScriptDaily"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::MinaMarkham",
+      "ctime": "2019-04-06T17:04:13.000Z",
+      "title": "Tweet by @MinaMarkham",
+      "text": "Apropos of nothing:\n\nI want to be @ArlanWasHere and @operaqueenie when I grow up. \n\nWith some @EricaJoy in the mix.",
+      "url": "https://twitter.com/MinaMarkham/status/1114574544138686465",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::MinaMarkham"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::MinaMarkham",
+      "ctime": "2019-04-06T16:53:14.000Z",
+      "title": "Tweet by @MinaMarkham",
+      "text": "I have a strong need to ask every person I know if I’ve been butchering their name this whole time.",
+      "url": "https://twitter.com/nicolelzhu/status/1114199333728079872",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::MinaMarkham"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::MinaMarkham",
+      "ctime": "2019-04-06T16:34:09.000Z",
+      "title": "Tweet by @MinaMarkham",
+      "text": "I’ve found it. The most depressing tweet ever tweeted.",
+      "url": "https://twitter.com/ghostpanther/status/1110381761400197121",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::MinaMarkham"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::cjihrig",
+      "ctime": "2019-04-06T16:33:26.000Z",
+      "title": "Tweet by @cjihrig",
+      "text": "unpopular opinion: typescript is great for getting started with javascript. but, if you already know javascript well, typescript is very counterproductive",
+      "url": "https://twitter.com/cjihrig/status/1114566794197520385",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::matteocollina"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::tlivings",
+      "ctime": "2019-04-06T14:32:43.000Z",
+      "title": "Tweet by @tlivings",
+      "text": "GraphQL benefits have diminishing returns the deeper into the stack you adopt it. I’m not sold on graphQL as  general purpose for microservices. It’s sweet spot is the edge api surface area.",
+      "url": "https://twitter.com/tlivings/status/1114536415902216203",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::matteocollina"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::mafintosh",
+      "ctime": "2019-04-06T12:52:21.000Z",
+      "title": "Tweet by @mafintosh",
+      "text": "Collaborating with @tidelift has been really great! Have around 16 npm packages on there now. If you are interested in making open source more sustainable I suggest checking it out :)",
+      "url": "https://twitter.com/mafintosh/status/1114511158277545984",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::matteocollina"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::koste4",
+      "ctime": "2019-04-06T12:40:32.000Z",
+      "title": "Tweet by @koste4",
+      "text": "Athens has the prettiest cafes 😍.\n@το Κρυφτό – i Κρυφτό",
+      "url": "https://twitter.com/koste4/status/1114508185463861248",
+      "preview": "https://pbs.twimg.com/media/D3eHRtCWsAADi78.jpg",
+      "hashtags": [],
+      "origin": "twitter::matteocollina"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::trygve_lie",
+      "ctime": "2019-04-06T12:36:41.000Z",
+      "title": "Tweet by @trygve_lie",
+      "text": "When you end up having to add helper methods to your module to cater for the test framework to behave when running tests, you know you are using the wrong test framework.",
+      "url": "https://twitter.com/trygve_lie/status/1114507217263312896",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::matteocollina"
+    },
+    {
+      "type": "instagram::media",
+      "author": "instagram::i_love_being_healthy_88",
+      "origin": "instagram::i_love_being_healthy_88",
+      "ctime": "2019-04-06T07:51:05.000Z",
+      "title": "Media by @i_love_being_healthy_88",
+      "text": "SUSHI....DI CAVOLFIORE!!😍\n.\n.\nAvevo già preparato il #sushi in casa in passato. Ma quello vero, con in riso (...e con l'aceto di riso e lo zucchero, seguendo la ricetta 'originale'). Questa è un'alternativa possibile low-carb, a più basso indice glicemico e senza zucchero, molto più in linea con la #dietaendometriosi. 🌻😊\n.\n.\n🔸️In questa ricetta il #cavolfiore è crudo: le cimette sono tritate finemente con il robot da cucina e mescolate a qualche cucchiaio di aceto, qualche cipollotto tritato e 2 cucchiai di maionese fatta in casa (si può omettere, o sostituire con un po' di formaggio vegetale cremoso).\n🔸️Nel ripieno c'è salmone, avocado e frittatina di uovo e curcuma tagliata a striscette sottili.\n.\n.\n(Ci sono anche versioni che prevedono la cottura del cavolfiore in padella o al microonde per qualche minuto...proverò!!)\n.\n.\n#cawliflower #dieta #dietaendometriosi #endometriosi #endometriosis #endometriosisdiet #dietasana #cibosano #cibosalutare #mangiarebene #benessere #nutrizione #prevenzione #salute #gusto #starebene #alimentazione #ricetta #lowcarb",
+      "url": "https://www.instagram.com/p/Bv6AYrKgORD/",
+      "preview": "https://scontent-arn2-1.cdninstagram.com/vp/cbdf4a9aeba565f592294912ed752c70/5D46DBE5/t51.2885-15/sh0.08/e35/s640x640/54731959_356919738254749_4844502703074249100_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com",
+      "hashtags": [
+        "sushi",
+        "dietaendometriosi",
+        "cavolfiore",
+        "cawliflower",
+        "dieta",
+        "dietaendometriosi",
+        "endometriosi",
+        "endometriosis",
+        "endometriosisdiet",
+        "dietasana",
+        "cibosano",
+        "cibosalutare",
+        "mangiarebene",
+        "benessere",
+        "nutrizione",
+        "prevenzione",
+        "salute",
+        "gusto",
+        "starebene",
+        "alimentazione",
+        "ricetta",
+        "lowcarb"
+      ]
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::kemitchell",
+      "ctime": "2019-04-06T04:36:31.000Z",
+      "title": "Tweet by @kemitchell",
+      "text": "Don't identify with a laptop. Buy trash and shell in to commodity rent-a-servers. In the end, everything awesome and original that you do will fit on a flash drive from 2010. War and Peace is 3.2MB of UTF-8.",
+      "url": "https://twitter.com/kemitchell/status/1114386379641769989",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::matteocollina"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::kemitchell",
+      "ctime": "2019-04-06T02:19:03.000Z",
+      "title": "Tweet by @kemitchell",
+      "text": "@matteocollina it's a start: http://sponsorneeded.com ",
+      "url": "http://sponsorneeded.com",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::matteocollina"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::adrianco",
+      "ctime": "2019-04-06T00:50:37.000Z",
+      "title": "Tweet by @adrianco",
+      "text": "I don’t know, it’s not been a focus for my team so far. We do have joining the Node Foundation on our list of things to take a look at. I’m interested in your opinion on what’s needed in Node, in general, and where AWS could help.",
+      "url": "https://twitter.com/adrianco/status/1114329528183197697",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::matteocollina"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::notwaldorf",
+      "ctime": "2019-04-05T23:10:35.000Z",
+      "title": "Tweet by @notwaldorf",
+      "text": "To celebrate WebKit finally implementing <datalist>, here’s an amazing (and old) datalist demo from @agektmr!\n\nLook at those free typeaheads. Just LOOK AT THEM! 😍\n\n💯",
+      "url": "https://demo.agektmr.com/datalist/",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::_jasonmit"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::mikeal",
+      "ctime": "2019-04-05T22:35:12.000Z",
+      "title": "Tweet by @mikeal",
+      "text": "There seems to be a lot of complaints about Node.js API's and functionality that, when they were created, were working around deficiencies in the language and platform.\n\nIt's some absurd revisionism to say they were \"mistakes\" even if we now have better primitives to replace them",
+      "url": "https://twitter.com/mikeal/status/1114295450499047424",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::matteocollina"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::JavaScriptDaily",
+      "ctime": "2019-04-05T21:38:01.000Z",
+      "title": "Tweet by @JavaScriptDaily",
+      "text": "Using Serverless 'Reapers' to Lower Your AWS Bill:",
+      "url": "https://www.cloudforecast.io/blog/using-serverless-reapers-to-lower-your-aws-bill/",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::JavaScriptDaily"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::addyosmani",
+      "ctime": "2019-04-05T21:04:36.000Z",
+      "title": "Tweet by @addyosmani",
+      "text": "Intersection Observer shipped in Safari 12.1! Modern-browser support will soon be strong with fewer users needing a JS polyfill: https://webkit.org/blog/8718/new-webkit-features-in-safari-12-1/ …",
+      "url": "https://webkit.org/blog/8718/new-webkit-features-in-safari-12-1/",
+      "preview": "https://pbs.twimg.com/media/D3axEXLU8AAhAqP.png",
+      "hashtags": [],
+      "origin": "twitter::_jasonmit"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::addyosmani",
+      "ctime": "2019-04-05T21:04:36.000Z",
+      "title": "Tweet by @addyosmani",
+      "text": "Intersection Observer shipped in Safari 12.1! Modern-browser support will soon be strong with fewer users needing a JS polyfill: https://webkit.org/blog/8718/new-webkit-features-in-safari-12-1/ …",
+      "url": "https://webkit.org/blog/8718/new-webkit-features-in-safari-12-1/",
+      "preview": "https://pbs.twimg.com/media/D3axEXLU8AAhAqP.png",
+      "hashtags": [],
+      "origin": "twitter::addyosmani"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::JavaScriptDaily",
+      "ctime": "2019-04-05T20:12:00.000Z",
+      "title": "Tweet by @JavaScriptDaily",
+      "text": "node-sonos: Control Sonos Devices with JavaScript -",
+      "url": "https://github.com/bencevans/node-sonos",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::JavaScriptDaily"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::ohhoe",
+      "ctime": "2019-04-05T17:58:15.000Z",
+      "title": "Tweet by @ohhoe",
+      "text": "I would like to say to people who are going through similar situations, keep a job journal. Keep track of your accomplishments and when things get weird. It’s not your fault.",
+      "url": "https://twitter.com/ohhoe/status/1114225754097766403",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::_jasonmit"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::JavaScriptDaily",
+      "ctime": "2019-04-05T17:43:00.000Z",
+      "title": "Tweet by @JavaScriptDaily",
+      "text": "Announcing TypeScript 3.4:",
+      "url": "https://devblogs.microsoft.com/typescript/announcing-typescript-3-4/",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::JavaScriptDaily"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::ohhoe",
+      "ctime": "2019-04-05T17:15:11.000Z",
+      "title": "Tweet by @ohhoe",
+      "text": "Here is what happened to me at Microsoft and why I am not at all surprised about the email that was going around internally.   thread....",
+      "url": "https://twitter.com/ohhoe/status/1114214917052276737",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::matteocollina"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::trott",
+      "ctime": "2019-04-05T17:04:53.000Z",
+      "title": "Tweet by @trott",
+      "text": "Today in @nodejs gratitude: @BethGriggs_ doing a ton of work lately to keep releases chugging, from the probably-last 6.x release before it goes EOL to the upcoming 12.0.0 release! Releasing is onerous work that does not get sufficient appreciation. Appreciate it!",
+      "url": "https://twitter.com/trott/status/1114212323550318592",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::matteocollina"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::MinaMarkham",
+      "ctime": "2019-04-05T16:23:37.000Z",
+      "title": "Tweet by @MinaMarkham",
+      "text": "I got my eye on you @theonlymaria1.",
+      "url": "https://twitter.com/theonlymaria1/status/1114199116483928064",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::MinaMarkham"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::YellowBrickC",
+      "ctime": "2019-04-05T16:07:26.000Z",
+      "title": "Tweet by @YellowBrickC",
+      "text": "Please dear devs, learn to communicate as people-to-people not as machine-to-machine\n#openSource",
+      "url": "openSourcehttps://twitter.com/matteocollina/status/1114197005192978432",
+      "preview": null,
+      "hashtags": [
+        "openSourcehttps"
+      ],
+      "origin": "twitter::matteocollina"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::matteocollina",
+      "ctime": "2019-04-05T16:04:01.000Z",
+      "title": "Tweet by @matteocollina",
+      "text": "If you open an issue in an Open Source project, never start with \"I need...\" - you might be needing something, but you are essentially asking for free support. Be kind. Also remember that support contracts are a thing.",
+      "url": "https://twitter.com/matteocollina/status/1114197005192978432",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::matteocollina"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::MinaMarkham",
+      "ctime": "2019-04-05T15:26:46.000Z",
+      "title": "Tweet by @MinaMarkham",
+      "text": "Seriously it’s like Christmas morning over here 😂😂😂",
+      "url": "https://twitter.com/MinaMarkham/status/1114187632433553408",
+      "preview": "https://pbs.twimg.com/media/D3ZjvcJUIAAk3N1.jpg",
+      "hashtags": [],
+      "origin": "twitter::MinaMarkham"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::MinaMarkham",
+      "ctime": "2019-04-05T15:21:40.000Z",
+      "title": "Tweet by @MinaMarkham",
+      "text": "I HIT THE MOTHERLODE!",
+      "url": "https://twitter.com/MinaMarkham/status/1114186346560491520",
+      "preview": "https://pbs.twimg.com/media/D3ZikotUEAA926Y.jpg",
+      "hashtags": [],
+      "origin": "twitter::MinaMarkham"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::JavaScriptDaily",
+      "ctime": "2019-04-05T14:37:55.000Z",
+      "title": "Tweet by @JavaScriptDaily",
+      "text": "Wes Bos livecodes a Twitter and Instagram scraper with Node: https://www.youtube.com/watch?v=rWc0xqroY4U … #video",
+      "url": "https://www.youtube.com/watch?v=rWc0xqroY4U",
+      "preview": null,
+      "hashtags": [
+        "video"
+      ],
+      "origin": "twitter::JavaScriptDaily"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::MinaMarkham",
+      "ctime": "2019-04-05T14:21:07.000Z",
+      "title": "Tweet by @MinaMarkham",
+      "text": "I stan a legend 👑\n\nIn case y’all forgot, Bey is Black.",
+      "url": "https://twitter.com/beylegion/status/1114129438709559297",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::MinaMarkham"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::JavaScriptDaily",
+      "ctime": "2019-04-05T13:55:00.000Z",
+      "title": "Tweet by @JavaScriptDaily",
+      "text": "is-online: Check If The Internet Connection Is Up - https://github.com/sindresorhus/is-online … (Works in both Node.js and the browser and uses Apple's public captive detection page behind the scenes.)",
+      "url": "https://github.com/sindresorhus/is-online",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::JavaScriptDaily"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::MinaMarkham",
+      "ctime": "2019-04-05T12:47:44.000Z",
+      "title": "Tweet by @MinaMarkham",
+      "text": "So I’m just waking up at 5am now?\n\nThat’s what we doing brain?\n\nThis is my new normal?",
+      "url": "https://twitter.com/MinaMarkham/status/1114147610221109249",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::MinaMarkham"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::jessfraz",
+      "ctime": "2019-04-05T12:19:18.000Z",
+      "title": "Tweet by @jessfraz",
+      "text": "find the stronger men who aren’t threatened :) they exist. I promise.",
+      "url": "https://twitter.com/s_m_i/status/1114019658011516928?s=21",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::matteocollina"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::Cianomaidin",
+      "ctime": "2019-04-05T11:58:34.000Z",
+      "title": "Tweet by @Cianomaidin",
+      "text": "Think about it - bringing design thinking into developer tools",
+      "url": "https://twitter.com/Cianomaidin/status/1114135236235993088",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::matteocollina"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::JavaScriptDaily",
+      "ctime": "2019-04-05T10:30:18.000Z",
+      "title": "Tweet by @JavaScriptDaily",
+      "text": "combine-pagination: A Library for Paginating Data From Multiple Sources -",
+      "url": "https://github.com/chrisvxd/combine-pagination",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::JavaScriptDaily"
+    },
+    {
+      "type": "instagram::media",
+      "author": "instagram::i_love_being_healthy_88",
+      "origin": "instagram::i_love_being_healthy_88",
+      "ctime": "2019-04-05T08:54:52.000Z",
+      "title": "Media by @i_love_being_healthy_88",
+      "text": "Qualche carota, una zucchina, un peperone rosso, cipolle e qualche funghetto 😃\n.\n.\nHo tagliato tutto a pezzettini, foderato una teglia con carta forno, e sistemato tutte le verdure condite con olio, sale, timo secco e paprica dolce. In forno per una mezz'oretta al massimo a 200 gradi (rigiratele a metà cottura!)\n.\n.\nA volte cucino così le verdure il fine settimana (variando a seconda di quello che ho in frigo: asparagi, broccoli, patata dolce, cavolfiore...in genere però un paio di cipolle non mancano mai!!😊) in modo da aver pronto un contorno salutare da portare a pranzo a lavoro, o per cena quando rientro più tardi.\n.\n.\nVanno benissimo con degli spiedini di pesce, con del pollo grigliato, o con riso basmati/integrale/nero e hummus per esempio...💚\n.\n.\n#verdure #eatyourcolors #coloriatavola #contorno #dieta #dietaendometriosi #endometriosi #endometriosis #endometriosisdiet #dietasana #cibosano #cibosalutare #mangiarebene #benessere #nutrizione #prevenzione #salute #starebene #alimentazione  #vegano #vegetariano #ricettaveloce",
+      "url": "https://www.instagram.com/p/Bv3i4-SAxc_/",
+      "preview": "https://scontent-arn2-1.cdninstagram.com/vp/3278ddcbd3413dc5f9df68cfb5288fe7/5D2AF30A/t51.2885-15/sh0.08/e35/s640x640/54732263_459921254747062_4206738214163217656_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com",
+      "hashtags": [
+        "verdure",
+        "eatyourcolors",
+        "coloriatavola",
+        "contorno",
+        "dieta",
+        "dietaendometriosi",
+        "endometriosi",
+        "endometriosis",
+        "endometriosisdiet",
+        "dietasana",
+        "cibosano",
+        "cibosalutare",
+        "mangiarebene",
+        "benessere",
+        "nutrizione",
+        "prevenzione",
+        "salute",
+        "starebene",
+        "alimentazione",
+        "vegano",
+        "vegetariano",
+        "ricettaveloce"
+      ]
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::MinaMarkham",
+      "ctime": "2019-04-05T01:37:18.000Z",
+      "title": "Tweet by @MinaMarkham",
+      "text": "Can I pin someone's tweet?",
+      "url": "https://twitter.com/Sherrell_Dorsey/status/1113972449790574598",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::MinaMarkham"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::JavaScriptDaily",
+      "ctime": "2019-04-05T01:27:00.000Z",
+      "title": "Tweet by @JavaScriptDaily",
+      "text": "Easy Authentication in GraphQL with Express and Apollo : https://ikbendirk.nl/posts/easy-authentication-in-graphql-with-express-and-apollo …",
+      "url": "https://ikbendirk.nl/posts/easy-authentication-in-graphql-with-express-and-apollo",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::JavaScriptDaily"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::JavaScriptDaily",
+      "ctime": "2019-04-05T00:04:00.000Z",
+      "title": "Tweet by @JavaScriptDaily",
+      "text": "A 1 Hour Nest.JS Crash Course: https://www.youtube.com/watch?v=wqhNoDE6pb4 … #video",
+      "url": "https://www.youtube.com/watch?v=wqhNoDE6pb4",
+      "preview": null,
+      "hashtags": [
+        "video"
+      ],
+      "origin": "twitter::JavaScriptDaily"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::JavaScriptDaily",
+      "ctime": "2019-04-04T21:33:01.000Z",
+      "title": "Tweet by @JavaScriptDaily",
+      "text": "How to Use `create-react-app` with a Custom Node Server on Heroku:",
+      "url": "https://github.com/mars/heroku-cra-node#readme",
+      "preview": null,
+      "hashtags": [
+        "readme"
+      ],
+      "origin": "twitter::JavaScriptDaily"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::BillGates",
+      "ctime": "2019-04-04T21:27:38.000Z",
+      "title": "Tweet by @BillGates",
+      "text": "When Paul and I founded @Microsoft together, we were confident that computers would change the world. But we never could have imagined how much fun we would have along the way.",
+      "url": "https://twitter.com/VulcanInc/status/1113835776486379520",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::matteocollina"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::MinaMarkham",
+      "ctime": "2019-04-04T21:20:53.000Z",
+      "title": "Tweet by @MinaMarkham",
+      "text": "Ah yes. I get it now.",
+      "url": "https://twitter.com/amandarosenberg/status/1113820198836903937",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::MinaMarkham"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::JavaScriptDaily",
+      "ctime": "2019-04-04T18:48:01.000Z",
+      "title": "Tweet by @JavaScriptDaily",
+      "text": "npm-windows-upgrade: A Tool for Easier `npm` Upgrades on Windows -",
+      "url": "https://github.com/felixrieseberg/npm-windows-upgrade",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::JavaScriptDaily"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::jscamp",
+      "ctime": "2019-04-04T18:27:14.000Z",
+      "title": "Tweet by @jscamp",
+      "text": "We're looking for sponsors for #JSCamp — July 18,19th in #Barcelona! If you're a company working with #JavaScript, we'd love to partner with you - lots of valuable points and opportunities to get your product in front of 600 enthusiastic developers. Say hi: sponsors@jscamp.tech",
+      "url": "https://twitter.com/jscamp/status/1113870659078193158",
+      "preview": "https://pbs.twimg.com/media/D3VDcBeX4AA40Ao.jpg",
+      "hashtags": [
+        "JSCamp",
+        "Barcelona",
+        "JavaScript"
+      ],
+      "origin": "twitter::matteocollina"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::MinaMarkham",
+      "ctime": "2019-04-04T17:56:47.000Z",
+      "title": "Tweet by @MinaMarkham",
+      "text": "Take all my money.",
+      "url": "https://twitter.com/brkicks/status/1113811353184210944",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::MinaMarkham"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::JavaScriptDaily",
+      "ctime": "2019-04-04T17:43:00.000Z",
+      "title": "Tweet by @JavaScriptDaily",
+      "text": "Easily Identify Problems in Node Apps with Diagnostic Report:",
+      "url": "https://medium.com/the-node-js-collection/easily-identify-problems-in-node-js-applications-with-diagnostic-report-dc82370d8029",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::JavaScriptDaily"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::FINALLEVEL",
+      "ctime": "2019-04-04T17:05:14.000Z",
+      "title": "Tweet by @FINALLEVEL",
+      "text": "Did this MF just say “The noise causes cancer??!”  I’m done.",
+      "url": "https://twitter.com/thehill/status/1113403522253508610",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::MinaMarkham"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::MinaMarkham",
+      "ctime": "2019-04-04T15:11:05.000Z",
+      "title": "Tweet by @MinaMarkham",
+      "text": "Because who cares about things like “truth” and “facts” when everyone has already made up their minds on something NO ONE HAS READ.\n\n*incoherent grumbling*",
+      "url": "https://twitter.com/kattykaybbc/status/1113766776532238336",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::MinaMarkham"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::JavaScriptDaily",
+      "ctime": "2019-04-04T13:44:49.000Z",
+      "title": "Tweet by @JavaScriptDaily",
+      "text": "💚 Node Weekly issue #282 is out now, and you can catch up online here: https://nodeweekly.com/issues/282 ",
+      "url": "https://nodeweekly.com/issues/282",
+      "preview": null,
+      "hashtags": [
+        "282"
+      ],
+      "origin": "twitter::JavaScriptDaily"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::JavaScriptDaily",
+      "ctime": "2019-04-04T13:28:01.000Z",
+      "title": "Tweet by @JavaScriptDaily",
+      "text": "The Popular `request` Module is Going into Maintenance Mode:",
+      "url": "https://github.com/request/request/issues/3142",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::JavaScriptDaily"
+    },
+    {
+      "type": "instagram::media",
+      "author": "instagram::i_love_being_healthy_88",
+      "origin": "instagram::i_love_being_healthy_88",
+      "ctime": "2019-04-04T06:32:56.000Z",
+      "title": "Media by @i_love_being_healthy_88",
+      "text": "🥦NOODLES DI RISO CON CREMA DI BROCCOLI🥦\n.\n.\nQuesta crema di broccoli è squisita. Va bene usata come un pesto, per condire la pasta; o come accompagnamento a pollo o pesce; o come salsina da spalmare su crackers o gallette; o ancora per farcire dei tortini salati...provatela!!😍\n.\n.\n🔸️Ho tagliato le cimette del broccolo e le ho lessate in acqua bollente salata per 10 minuti circa.\n🔸️Ho scolato i broccoli e li ho frullati con un frullatore ad immersione assieme ad uno spicchio d'aglio, poco sale, una macinata di pepe nero, il succo di mezzo limone, un cucchiaino di tahini (burro di sesamo, quello che si usa per l'hummus), 2 cucchiai di olio EVO, un paio di cucchiai di acqua di cottura dei broccoli (quanto basta per ottenere la consistenza desiderata).\n.\n.\n👉Per i NOODLES di riso invece: li ho bolliti 3 minuti nell'acqua di cottura dei broccoli (seguite le indicazioni sulla confezione), li ho amalgamati alla cremina di broccoli, ed ho completato il piatto con delle scagliette di mandorla ed un filo d'olio. 💚😃\n.\n.\n#noodles #ricenoodles\n#broccoli #pesto #pranzo #dieta #dietaendometriosi #endometriosi #endometriosis #endometriosisdiet #dietasana #cibosano #cibosalutare #mangiarebene #benessere #nutrizione #prevenzione #salute #gusto #starebene #alimentazione  #ricettavegana #ricettavegetariana",
+      "url": "https://www.instagram.com/p/Bv0t2gigobS/",
+      "preview": "https://scontent-arn2-1.cdninstagram.com/vp/02ece595c7e8c4442b72af200d6eab15/5D4951A5/t51.2885-15/sh0.08/e35/s640x640/54248124_2112136768841078_8283957272680489001_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com",
+      "hashtags": [
+        "noodles",
+        "ricenoodles",
+        "broccoli",
+        "pesto",
+        "pranzo",
+        "dieta",
+        "dietaendometriosi",
+        "endometriosi",
+        "endometriosis",
+        "endometriosisdiet",
+        "dietasana",
+        "cibosano",
+        "cibosalutare",
+        "mangiarebene",
+        "benessere",
+        "nutrizione",
+        "prevenzione",
+        "salute",
+        "gusto",
+        "starebene",
+        "alimentazione",
+        "ricettavegana",
+        "ricettavegetariana"
+      ]
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::MinaMarkham",
+      "ctime": "2019-04-04T04:09:28.000Z",
+      "title": "Tweet by @MinaMarkham",
+      "text": "Thanks so much @perfmattersconf for letting me emcee the festivities. I hope you enjoyed all my shenanigans on stage 😄",
+      "url": "https://twitter.com/MinaMarkham/status/1113654794432831493",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::MinaMarkham"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::KeerthanaK17",
+      "ctime": "2019-04-04T01:02:04.000Z",
+      "title": "Tweet by @KeerthanaK17",
+      "text": "Our MC, the fabulous @MinaMarkham ad-lib pro and one of the strongest WIT, an inspiration to all of us! :) #perfmatters",
+      "url": "https://twitter.com/KeerthanaK17/status/1113607632785268736",
+      "preview": "https://pbs.twimg.com/media/D3RUPGqUYAAF2Pl.jpg",
+      "hashtags": [
+        "perfmatterspic"
+      ],
+      "origin": "twitter::MinaMarkham"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::apbenven",
+      "ctime": "2019-04-03T17:02:56.000Z",
+      "title": "Tweet by @apbenven",
+      "text": "May you have as much confidence as Lori Loughlin signing autographs before her court appearance",
+      "url": "https://twitter.com/apbenven/status/1113487056003653634",
+      "preview": "https://pbs.twimg.com/media/D3PmiPWWkAEE8VK.png",
+      "hashtags": [],
+      "origin": "twitter::MinaMarkham"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::JavaScriptDaily",
+      "ctime": "2019-04-03T11:00:04.000Z",
+      "title": "Tweet by @JavaScriptDaily",
+      "text": "Want to build a React Native app that works in a car using Apple CarPlay? Now you can. https://github.com/birkir/react-native-carplay …",
+      "url": "https://github.com/birkir/react-native-carplay",
+      "preview": "https://pbs.twimg.com/media/D3OTheZWkAQ67HD.jpg",
+      "hashtags": [],
+      "origin": "twitter::JavaScriptDaily"
+    },
+    {
+      "type": "instagram::media",
+      "author": "instagram::i_love_being_healthy_88",
+      "origin": "instagram::i_love_being_healthy_88",
+      "ctime": "2019-04-03T10:39:19.000Z",
+      "title": "Media by @i_love_being_healthy_88",
+      "text": "👉MELANZANE GRIGLIATE😋\nUn ottimo contorno per pollo o pesce.\n.\n.\nLe ho tagliate a fette abbastanza sottili, e disposte a strati in uno scolapasta alternate da un po' di sale grosso, in modo da far perdere loro l'acqua di vegetazione.\n.\n.\nLe ho poi 'grigliate' in una padella antiaderente (senza olio), fino a che sono diventate leggermente abbrustolite su entrambi i lati. Le ho poi condite con olio EVO, aceto, prezzemolo, scagliette di peperoncino secco ed un paio di spicchi d'aglio tagliati a pezzetti. 😃\nLasciatele marinare un po' in frigo prima di gustarle 💚\n.\n.\n#melanzanegrigliate #contorno #dieta #dietaendometriosi #endometriosi #endometriosis #endometriosisdiet #dietasana #cibosano #cibosalutare #mangiarebene #benessere #nutrizione #prevenzione #salute #gusto #starebene #alimentazione #vegan #vegetariano #ricetta",
+      "url": "https://www.instagram.com/p/BvylQK-Aknz/",
+      "preview": "https://scontent-arn2-1.cdninstagram.com/vp/820836fba9d1fb2f63db1d536f4d8f38/5D2F1813/t51.2885-15/sh0.08/e35/c0.7.1080.1080/s640x640/51216403_396711401151621_7229803852511683456_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com",
+      "hashtags": [
+        "melanzanegrigliate",
+        "contorno",
+        "dieta",
+        "dietaendometriosi",
+        "endometriosi",
+        "endometriosis",
+        "endometriosisdiet",
+        "dietasana",
+        "cibosano",
+        "cibosalutare",
+        "mangiarebene",
+        "benessere",
+        "nutrizione",
+        "prevenzione",
+        "salute",
+        "gusto",
+        "starebene",
+        "alimentazione",
+        "vegan",
+        "vegetariano",
+        "ricetta"
+      ]
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::kdotx3",
+      "ctime": "2019-04-03T03:47:14.000Z",
+      "title": "Tweet by @kdotx3",
+      "text": "I hope black girls w. depression & anxiety have a great week.\n\nI hope my black girls who suffer w. bipolar disorder and schizophrenia have a great week.\n\nI hope black girls w. Bpd, Ptsd adhd/and or autism have a great week. \n\nI’m tired guys lol. But we can/will get thru this.",
+      "url": "https://twitter.com/kdotx3/status/1113286810359205889",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::MinaMarkham"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::kwilli1046",
+      "ctime": "2019-04-02T23:05:14.000Z",
+      "title": "Tweet by @kwilli1046",
+      "text": "Son uses the money he earned from developing his first app to surprise his parents by paying off their mortgage",
+      "url": "https://twitter.com/kwilli1046/status/1113215844081917952",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::MinaMarkham"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::MOONEM0Jl",
+      "ctime": "2019-04-02T19:17:51.000Z",
+      "title": "Tweet by @MOONEM0Jl",
+      "text": "aliens probably ride pass earth and lock their doors",
+      "url": "https://twitter.com/MOONEM0Jl/status/1113158622769446914",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::_jasonmit"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::JavaScriptDaily",
+      "ctime": "2019-04-02T18:48:00.000Z",
+      "title": "Tweet by @JavaScriptDaily",
+      "text": "Creating a Reusable Pagination Component in Vue.js:",
+      "url": "https://css-tricks.com/creating-a-reusable-pagination-component-in-vue/",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::JavaScriptDaily"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::JavaScriptDaily",
+      "ctime": "2019-04-02T17:40:02.000Z",
+      "title": "Tweet by @JavaScriptDaily",
+      "text": "How to Remove Duplicates from an Array in JavaScript: https://blog.bitsrc.io/how-to-remove-duplicates-from-an-array-in-javascript-b4b2fcf3530e … (Leaning on ES6's set support seems to be the quickest way.)",
+      "url": "https://blog.bitsrc.io/how-to-remove-duplicates-from-an-array-in-javascript-b4b2fcf3530e",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::JavaScriptDaily"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::roelvangils",
+      "ctime": "2019-04-02T13:43:21.000Z",
+      "title": "Tweet by @roelvangils",
+      "text": "Does your Mac becomes slow/unresponsive (fans kicking in etc.) when you `npm install` a huge project with a million tiny dependencies? I learned that adding an empty `.metadata_never_index` in /node_modules *beforehand* will prevent Spotlight from indexing all that crap.",
+      "url": "https://twitter.com/roelvangils/status/1113074439976075264",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::_jasonmit"
+    },
+    {
+      "type": "instagram::media",
+      "author": "instagram::i_love_being_healthy_88",
+      "origin": "instagram::i_love_being_healthy_88",
+      "ctime": "2019-04-02T06:57:11.000Z",
+      "title": "Media by @i_love_being_healthy_88",
+      "text": "🍕PIZZA SENZA GLUTINE😋\nÈ stato il mio primo esperimento di pizza, in passato mi sono cimentata in diversi tipi di pane, frolle e paste brisè, ma mai nella pizza, forse perché dubitavo si potesse riuscire a fare in casa qualcosa all'altezza  delle mie aspettative 😅\n.\n.\nSono partita dall'impasto della #pizza #senzaglutine di @giallozafferano, modificandolo un pochino in base a ciò che avevo in casa. Per due pizze (diametro 32 cm):\n🔸️350 gr di farina di riso (io ho usato quella di riso integrale)\n🔸️250 gr di amido di mais (io ho usato metà amido di mais e metà fecola di patate)\n🔸️un cucchiaino di miele\n🔸️350 ml di acqua tiepida\n🔸️10 gr di sale fino\n🔸️2 cucchiai di olio EVO\n🔸️25 gr di lievito di birra fresco (io 14 gr di lievito di birra secco)\n🔸️io ho aggiunto alla versione di Giallo Zafferano anche 10 gr di cuticola di psillio per avere un impasto più elastico e riprodurre un pochino la consistenza che si avrebbe usando farine con il glutine.\n.\n.\nA questo link trovate il procedimento:\n\nhttps://www.google.com/amp/s/ricette.giallozafferano.it/Pizza-senza-glutine.html%3fgoogle-amp=1\n\nLa mia teglia era da 26 cm, quindi la pizza è venuta più altina, quasi una focaccia. L'ho cotta sul ripiano più basso del forno a 250 gradi per 20 min circa, condita solo con passata di pomodoro, olio, sale e basilico. Poi ho aggiunto mozzarella di bufala, funghi e poca salsiccia sbriciolata (si dovrebbe evitare ma ne avevo troppa voglia!!🙈🙈), ed infornato ancora (questa volta nel ripiano di mezzo) per altri 10 minuti (o fino a che non è cotta come piace a voi!!).\n.\n.\nSono super soddisfatta del risultato!! Ciò non toglie che riproverò ancora a fare piccoli cambiamenti a caccia della ricetta perfetta 😃\n.\n.\n#dietaendometriosi #endometriosi #endometriosis #endometriosisdiet #dietasana #cibosano #cibosalutare #mangiarebene #benessere #nutrizione #prevenzione #salute #gusto #starebene #alimentazione #senzalattosio #ricetta",
+      "url": "https://www.instagram.com/p/BvvnCVDA8f0/",
+      "preview": "https://scontent-arn2-1.cdninstagram.com/vp/403eedd8cdeb6d306b370152139269f0/5D3910A7/t51.2885-15/sh0.08/e35/s640x640/54513908_666134627137646_4719490818494944671_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com",
+      "hashtags": [
+        "pizza",
+        "senzaglutine",
+        "dietaendometriosi",
+        "endometriosi",
+        "endometriosis",
+        "endometriosisdiet",
+        "dietasana",
+        "cibosano",
+        "cibosalutare",
+        "mangiarebene",
+        "benessere",
+        "nutrizione",
+        "prevenzione",
+        "salute",
+        "gusto",
+        "starebene",
+        "alimentazione",
+        "senzalattosio",
+        "ricetta"
+      ]
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::rickhanlonii",
+      "ctime": "2019-04-02T04:50:58.000Z",
+      "title": "Tweet by @rickhanlonii",
+      "text": "I am a:\n\n⚪️ Man\n\n⚪️ Woman\n\n⚪️ Non-binary\n\n🔘 JavaScript programmer\n\nLooking for:\n\n⚪️ Non-binary\n\n⚪️ Women\n\n⚪️ Men\n\n🔘 Help replacing npm with a community owned distributed non-profit that actually treats people with compassion",
+      "url": "https://twitter.com/rickhanlonii/status/1112940464733249536",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::JavaScriptDaily"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::slicknet",
+      "ctime": "2019-04-01T18:50:13.000Z",
+      "title": "Tweet by @slicknet",
+      "text": "Today is a great day to donate to support ESLint. Have you talked to your company about donating yet?",
+      "url": "https://twitter.com/geteslint/status/1112786824747839489",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::JavaScriptDaily"
+    },
+    {
+      "type": "instagram::media",
+      "author": "instagram::i_love_being_healthy_88",
+      "origin": "instagram::i_love_being_healthy_88",
+      "ctime": "2019-04-01T08:39:11.000Z",
+      "title": "Media by @i_love_being_healthy_88",
+      "text": "💚NACHOS AL SALMONE & AVOCADO🥑\n.\n.\nIeri sera ho avuto ospiti a cena. Come aperitivo, ho improvvisato queste #nachos al salmone.\n\nVolevo preparare qualcosa che fosse originale, gradito ai miei ospiti e non troppo lontano dalla #dieta per #endometriosi che sto seguendo.\n.\n.\n🔸️Ho comprato queste nachos in busta (solo farina di mais, olio di semi di girasole e sale), e su ognuna ho aggiunto un pezzettino di #salmone al naturale, un pezzettino di #avocado, e pomodorini e cipolla rossa tritati finemente.🔸️ Sono stati un successo!😃\n.\n.\n(Ho preparato anche la mia prima pizza senza glutine, e come primo tentativo devo dire che mi ha tanto soddisfatto! A domani per la ricetta 🙂)\n.\n.\n#dietaendometriosi #endometriosis #endometriosisdiet #dietasana #cibosano #cibosalutare #mangiarebene #benessere #nutrizione #prevenzione #salute #gusto #starebene #dieta #donna #alimentazione #aperitivo #senzaglutine #senzalattosio #ideericette",
+      "url": "https://www.instagram.com/p/BvtN6hJglAT/",
+      "preview": "https://scontent-arn2-1.cdninstagram.com/vp/00df6bcfe558206b3326eb999b2e1017/5D4E0FFE/t51.2885-15/sh0.08/e35/c0.4.1080.1080/s640x640/56373763_2714331295306110_3062701762186390087_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com",
+      "hashtags": [
+        "nachos",
+        "dieta",
+        "endometriosi",
+        "salmone",
+        "avocado",
+        "dietaendometriosi",
+        "endometriosis",
+        "endometriosisdiet",
+        "dietasana",
+        "cibosano",
+        "cibosalutare",
+        "mangiarebene",
+        "benessere",
+        "nutrizione",
+        "prevenzione",
+        "salute",
+        "gusto",
+        "starebene",
+        "dieta",
+        "donna",
+        "alimentazione",
+        "aperitivo",
+        "senzaglutine",
+        "senzalattosio",
+        "ideericette"
+      ]
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::katiehempenius",
+      "ctime": "2019-03-31T19:52:49.000Z",
+      "title": "Tweet by @katiehempenius",
+      "text": "🎞 This is what First Input Delay (FID) looks like.\n\nThe page looks ready, but the main thread is busy, so the browser can’t respond to my clicks.\n\nFID approximates this by measuring the time between the first user interaction w/ page & when the browser actually responds.",
+      "url": "https://twitter.com/katiehempenius/status/1112442646184763393",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::addyosmani"
+    },
+    {
+      "type": "instagram::media",
+      "author": "instagram::i_love_being_healthy_88",
+      "origin": "instagram::i_love_being_healthy_88",
+      "ctime": "2019-03-31T08:08:45.000Z",
+      "title": "Media by @i_love_being_healthy_88",
+      "text": "👉Cerchiamo di fare chiarezza!! Perché dovremmo limitare la nostra assunzione di zuccheri??🤔\n.\n.\nLo ZUCCHERO influenza un ormone di cui probabilmente avete già sentito parlare, l'insulina.\n.\n.\nL'INSULINA partecipa alla regolazione dei livelli di #zucchero nel sangue, assicurandosi che non siano nè troppo alti (iperglicemia) nè tantomeno troppo bassi (ipoglicemia). Quando i livelli di #glucosio aumentano (ossia ogni volta che mangiamo dolci, pasta, pane...o qualsiasi altro alimento ad alto indice glicemico) il pancreas secerne più #insulina.\n.\n.\nLivelli più elevati di insulina sono associati a livelli più bassi di SHBG (globulina legante gli ormoni sessuali), che è una proteina prodotta nel fegato in grado di legare il testosterone, il diidrotestosterone (DHT) e l'estradiolo (estrogeno). In generale, quando i livelli di SHBG sono bassi, il corpo ha un quantitativo più alto di ormoni disponibili all’uso.\n.\n.\n👉RICAPITOLANDO:\n🔸️SE INGERIAMO TROPPI ZUCCHERI, L'INSULINA AUMENTA. 🔸️SE L'INSULINA È ELEVATA, I LIVELLI DI SHBG SONO PIÙ BASSI, E ABBIAMO UN QUANTITATIVO PIÙ ALTO DI ORMONI CIRCOLANTI.\n🔸️PER NOI DONNE CHE SOFFRIAMO DI ENDOMETRIOSI, QUESTO CORRISPONDE AD UN PIÙ ELEVATO LIVELLO DI ESTROGENI NEL SANGUE.\n.\n.\nCiò implica che così facendo potremmo aver incoraggiato la crescita della malattia. L'endometriosi è una malattia estrogeno-dipendente, e diversi studi suggeriscono che molte donne che soffrono di #endometriosi sono estrogeno dominanti. Il nostro obiettivo deve essere RIDURRE GLI ESTROGENI piuttosto che aumentarli! Ed una dieta bilanciata - limitando il quantitativo di zuccheri ingeriti - può essere un valido aiuto per aiutarci a ritrovare questo equilibrio.\n.\n.\n#dietaendometriosi #endometriosis #dietasana #cibosano #cibosalutare #benessere #nutrizione #prevenzione #salute #starebene #estrogeni #ormoni #ciclomestruale #pcos #dieta #donna #alimentazione",
+      "url": "https://www.instagram.com/p/BvqloyyAiMK/",
+      "preview": "https://scontent-arn2-1.cdninstagram.com/vp/7e7fe826422e4c38e1f393aec88a215b/5D29DC37/t51.2885-15/sh0.08/e35/s640x640/54277252_267090224236107_935833353626450024_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com",
+      "hashtags": [
+        "zucchero",
+        "glucosio",
+        "insulina",
+        "endometriosi",
+        "dietaendometriosi",
+        "endometriosis",
+        "dietasana",
+        "cibosano",
+        "cibosalutare",
+        "benessere",
+        "nutrizione",
+        "prevenzione",
+        "salute",
+        "starebene",
+        "estrogeni",
+        "ormoni",
+        "ciclomestruale",
+        "pcos",
+        "dieta",
+        "donna",
+        "alimentazione"
+      ]
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::MrAlanCooper",
+      "ctime": "2019-03-30T23:38:09.000Z",
+      "title": "Tweet by @MrAlanCooper",
+      "text": "You know, I’ve been in the software development business for more than 40 years now, and there is one thing that I know for a solid fact: Nobody knows how to build software. Yes, sometimes it gets built, but it’s a random, unrepeatable event. A lucky accident.",
+      "url": "https://twitter.com/MrAlanCooper/status/1112136964306669570",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::_jasonmit"
+    },
+    {
+      "type": "instagram::media",
+      "author": "instagram::i_love_being_healthy_88",
+      "origin": "instagram::i_love_being_healthy_88",
+      "ctime": "2019-03-30T13:14:30.000Z",
+      "title": "Media by @i_love_being_healthy_88",
+      "text": "Yogurt di cocco, kiwi, cacao nibs. What else?💚\n.\n.\n#colazionesana #healthysnack #merendasalutare #endometriosi #dietaendometriosi #endodiet #endometriosis #senzazucchero #vegan #yogurt #kiwi #cacaonibs #benessere #nutrizione #salute #senzalattosio",
+      "url": "https://www.instagram.com/p/Bvoj1Ttg9eZ/",
+      "preview": "https://scontent-arn2-1.cdninstagram.com/vp/5bebca612bc72c9ed5b712780b81b592/5D378131/t51.2885-15/sh0.08/e35/c0.8.1080.1080a/s640x640/54247832_606929049718755_5390780335300829574_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com",
+      "hashtags": [
+        "colazionesana",
+        "healthysnack",
+        "merendasalutare",
+        "endometriosi",
+        "dietaendometriosi",
+        "endodiet",
+        "endometriosis",
+        "senzazucchero",
+        "vegan",
+        "yogurt",
+        "kiwi",
+        "cacaonibs",
+        "benessere",
+        "nutrizione",
+        "salute",
+        "senzalattosio"
+      ]
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::fharper",
+      "ctime": "2019-03-29T18:20:10.000Z",
+      "title": "Tweet by @fharper",
+      "text": "As you know, I’ve been laid off by @npmjs last Friday after a “reorg\". They offered me a severance package equivalent to two weeks of my salary, which is “fair\" as they didn’t had to and I was new: they hired me 4 months ago.",
+      "url": "https://twitter.com/fharper/status/1111694552262459393",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::_jasonmit"
+    },
+    {
+      "type": "instagram::media",
+      "author": "instagram::i_love_being_healthy_88",
+      "origin": "instagram::i_love_being_healthy_88",
+      "ctime": "2019-03-29T08:25:30.000Z",
+      "title": "Media by @i_love_being_healthy_88",
+      "text": "Per questa torta salata mi sono ispirata alla torta di verdure preparata da @giorgia.ciocia e suggerita dalla Fondazione Italiana Endometriosi (@endometriosi). Grazie per la vostra bellissima ricetta!🙂💚\n.\n.\nInvece di realizzare una torta unica, io ho preparato una BASE DI PASTA BRISÈ #senzaglutine e #senzalattosio (che verrà poi farcita con uova e verdure) amalgamando:\n🔸️90 gr di farina di riso (io preferisco usare quella di riso integrale)\n🔸️60 gr di fecola di patate.\n🔸️60 gr di farina di amaranto (va bene anche grano saraceno, o si può omettere del tutto usando solo 120 gr di farina di riso integrale e 90 gr di fecola di patate o amido di mais, a seconda di cosa avete in casa)\n🔸️60 gr di olio EVO\n🔸️un cucchiaino di sale\n🔸️acqua fredda quanto basta per amalgamare il tutto (la quantità varia a seconda dei tipi di farina usati).\n.\n.\nIl quantitativo è sufficiente per rivestire la base di una tortiera di 26 cm di diametro rivestita di carta forno, come vedete nella terza foto del post. Ho bucherellato la base con una forchetta, e versato il RIPIENO.\n.\n🔸️Ho tagliato a cubetti piccoli una melanzana, un peperone rosso, una zucchina ed una cipolla, le ho lasciate appassire in padella in un filo d'olio con un po' di sale ed ho aspettato finchè sono diventate belle morbide e asciutte (se restano acquose bagnano il fondo della torta di pasta brisè).\n🔸️Ho aggiunto al ripieno di verdure anche due uova leggermente sbattute, della #curcuma e del timo secco.\n🔸️Ho farcito la torta, l'ho cosparsa di parmigiano grattuggiato (che potete sostituire anche con farina di mandorle, o pangrattato integrale, o omettere del tutto) ed ho infornato a 200 gradi per una mezz'ora circa. 🙂 È veramente buona e completa, ottima anche da portare come pranzo in ufficio!\n.\n.\n#dietaendometriosi #endometriosi #endometriosis #endodiet #dietasana #cibosano #mangiarebene #healthyfood #benessere #nutrizione #prevenzione #salute #gusto #ricetta #cucinasana #starebene #verdure #piattosano #piattosalutare",
+      "url": "https://www.instagram.com/p/Bvld9sGgKZv/",
+      "preview": "https://scontent-arn2-1.cdninstagram.com/vp/a706777766fdb368a4a8c2414a0cae47/5D367834/t51.2885-15/sh0.08/e35/s640x640/53845813_412734002837345_9051606702801154160_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com",
+      "hashtags": [
+        "senzaglutine",
+        "senzalattosio",
+        "curcuma",
+        "dietaendometriosi",
+        "endometriosi",
+        "endometriosis",
+        "endodiet",
+        "dietasana",
+        "cibosano",
+        "mangiarebene",
+        "healthyfood",
+        "benessere",
+        "nutrizione",
+        "prevenzione",
+        "salute",
+        "gusto",
+        "ricetta",
+        "cucinasana",
+        "starebene",
+        "verdure",
+        "piattosano",
+        "piattosalutare"
+      ]
+    },
+    {
+      "type": "instagram::media",
+      "author": "instagram::i_love_being_healthy_88",
+      "origin": "instagram::i_love_being_healthy_88",
+      "ctime": "2019-03-28T09:06:32.000Z",
+      "title": "Media by @i_love_being_healthy_88",
+      "text": "Finalmente le FRAGOLE!!😋🍓\n.\n.\nStamattina colazione con #porridge di avena. \nHo preparato tutto ieri sera (50 gr di fiocchi di avena certificati senza glutine, 180 gr di latte di mandorla senza zucchero, un cucchiaino di semi di chia, qualche goccia di estratto di vaniglia).\nStamattina l'ho riscaldato 2 minuti al microonde, e ho aggiunto #fragole, cocco rapè e sciroppo d'agave 😍\n.\n.\n#dietaendometriosi #endometriosi #endometriosis #colazionesalutare #colazionesana #benessere #nutrizione #prevenzione #salute  #gusto #starebene #senzalattosio #senzazucchero #ricetta",
+      "url": "https://www.instagram.com/p/Bvi93Zfgvw4/",
+      "preview": "https://scontent-arn2-1.cdninstagram.com/vp/199b423aa6fc869a000895f1d8c22120/5D37A5A8/t51.2885-15/sh0.08/e35/s640x640/53603380_369305750586271_5667904701817727329_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com",
+      "hashtags": [
+        "porridge",
+        "fragole",
+        "dietaendometriosi",
+        "endometriosi",
+        "endometriosis",
+        "colazionesalutare",
+        "colazionesana",
+        "benessere",
+        "nutrizione",
+        "prevenzione",
+        "salute",
+        "gusto",
+        "starebene",
+        "senzalattosio",
+        "senzazucchero",
+        "ricetta"
+      ]
+    },
+    {
+      "type": "instagram::media",
+      "author": "instagram::i_love_being_healthy_88",
+      "origin": "instagram::i_love_being_healthy_88",
+      "ctime": "2019-03-27T09:07:08.000Z",
+      "title": "Media by @i_love_being_healthy_88",
+      "text": "🔸️BURGER DI SALMONE🔸️\nUna #cena sana e bilanciata, con il salmone ricco di Omega-3, un'insalatina di spinaci freschi e delle patate dolci americane al forno.\n.\n.\n👉Per i #burger di #salmone: ho tritato nel robot da cucina 400 gr di salmone fresco (va benissimo anche tagliato finemente a coltello). Ho poi aggiunto uno scalogno tritato, un po' di sale, e 2 cucchiaini di senape. \nLo sapevate che la SENAPE fa parte della famiglia delle CRUCIFERE, come i cavoli? 🙂 Leggete bene gli ingredienti sulle etichette, e sceglietene una senza zuccheri o conservanti aggiunti se possibile. In alternativa, la potete sostituire con 2 cucchiaini di maionese leggera (fatta in casa), o anche con mezzo uovo leggermente sbattuto. \nAmalgamate bene il tutto e formate dei burger non troppo grandi con le mani inumidite d'acqua. Cuocete in padella antiaderente (unta bene d'olio con uno scottex) per 5-10 minuti (dipende dalla cottura che preferite e dallo spessore/grandezza dei burger).\n.\n.\n👉Per le patate dolci: io le ho tagliate a fettine sottili, messe su una teglia rivestita di carta forno facendo attenzione a non sovrapporle troppo, spennellate uniformemente con dell'olio e condite con sale, paprika dolce e rosmarino secco. In forno a 200 gradi per 20-25 minuti. Fatte così sono buonissime!\n.\n.\n#dietaendometriosi #endometriosi #endometriosis #endodiet #dietasana #cibosano #mangiarebene #healthyfood #benessere #nutrizione #prevenzione #salute #gusto #ricetta #cucinasana #starebene #fishburger #senzauova #batata #cenasalutare #piattosano #piattosalutare",
+      "url": "https://www.instagram.com/p/BvgZI6mg0jJ/",
+      "preview": "https://scontent-arn2-1.cdninstagram.com/vp/cb4bf9202d03b02731fc15df13267269/5D4E630A/t51.2885-15/sh0.08/e35/s640x640/54511061_1301642049991009_5514478326680780089_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com",
+      "hashtags": [
+        "cena",
+        "burger",
+        "salmone",
+        "dietaendometriosi",
+        "endometriosi",
+        "endometriosis",
+        "endodiet",
+        "dietasana",
+        "cibosano",
+        "mangiarebene",
+        "healthyfood",
+        "benessere",
+        "nutrizione",
+        "prevenzione",
+        "salute",
+        "gusto",
+        "ricetta",
+        "cucinasana",
+        "starebene",
+        "fishburger",
+        "senzauova",
+        "batata",
+        "cenasalutare",
+        "piattosano",
+        "piattosalutare"
+      ]
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::addyosmani",
+      "ctime": "2019-03-27T06:30:00.000Z",
+      "title": "Tweet by @addyosmani",
+      "text": "https://remove.bg  is amazing. Free service to remove the background of any photo 100% automatically.",
+      "url": "https://remove.bg",
+      "preview": "https://pbs.twimg.com/media/D2o3LAnVAAAOA4_.jpg",
+      "hashtags": [],
+      "origin": "twitter::addyosmani"
+    },
+    {
+      "type": "instagram::media",
+      "author": "instagram::i_love_being_healthy_88",
+      "origin": "instagram::i_love_being_healthy_88",
+      "ctime": "2019-03-26T10:10:24.000Z",
+      "title": "Media by @i_love_being_healthy_88",
+      "text": "👉PASTA CON IL CAVOLFIORE 😋\nUn primo piatto veloce e nutriente, grazie alla presenza del cavolfiore, che essendo una crucifera (così come broccoli, verza, cavolo cappuccio, cavolo nero, cavoletti di bruxelles, rucola, ravanelli, cime di rapa...) è una preziosa fonte di micronutrienti che aiutano a contrastare l'azione dannosa dei radicali liberi. Le CRUCIFERE sono fortemente consigliate se si segue una #dieta ANTINFIAMMATORIA.\n.\n.\nCome preparare questo piatto? 🔸️Soffriggere uno spicchio d'aglio, un filetto di acciuga e del peperoncino (facoltativo, in alternativa aggiungere una macinata di pepe nero alla fine) in un filo d'olio in padella. Far sciogliere bene l'acciuga nell'olio.\n🔸️Unire poi il cavolfiore tagliato a cimette piccole, e dopo un paio di minuti un pochino d'acqua. Mescolare ogni tanto, aggiungendo all'occorrenza acqua per proseguire la cottura (in tutto circa 20 minuti, ma dipende dalla consistenza che preferite). Salate a piacere. 🔸️A parte cuocere la #pasta al dente (io ho usato delle penne #senzaglutine di farina di lenticchie e cereali misti), versarla nel condimento, e mantecarla con un cucchiaio di parmigiano stagionato (si può omettere per una versione vegana del piatto).\n.\n.\n#dietaendometriosi #endometriosi #endometriosis #endodiet #dietasana #cibosano #mangiaresano #healthyfood #benessere #nutrizione #prevenzione #salute #gusto #ricetta #cucinasana #vegetariana #primopiatto #pranzo #pastasenzaglutine #senzalattosio #antiinflammatorydiet",
+      "url": "https://www.instagram.com/p/Bvd7lXfgnpZ/",
+      "preview": "https://scontent-arn2-1.cdninstagram.com/vp/0014d8c5fc11b5a11fa409f8286f62a0/5D50700B/t51.2885-15/sh0.08/e35/s640x640/52832676_579405599212489_1436005665261276490_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com",
+      "hashtags": [
+        "dieta",
+        "pasta",
+        "senzaglutine",
+        "dietaendometriosi",
+        "endometriosi",
+        "endometriosis",
+        "endodiet",
+        "dietasana",
+        "cibosano",
+        "mangiaresano",
+        "healthyfood",
+        "benessere",
+        "nutrizione",
+        "prevenzione",
+        "salute",
+        "gusto",
+        "ricetta",
+        "cucinasana",
+        "vegetariana",
+        "primopiatto",
+        "pranzo",
+        "pastasenzaglutine",
+        "senzalattosio",
+        "antiinflammatorydiet"
+      ]
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::addyosmani",
+      "ctime": "2019-03-24T06:30:00.000Z",
+      "title": "Tweet by @addyosmani",
+      "text": "New: Learn how to add Brotli compression to your site: https://bit.ly/learn-brotli  ~ Brotli can shave off up to 25% more bytes than Gzip and is widely supported by browsers.",
+      "url": "https://bit.ly/learn-brotli",
+      "preview": "https://pbs.twimg.com/media/D2Xpi_CU4AArA1W.png",
+      "hashtags": [],
+      "origin": "twitter::addyosmani"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::ValerieBreiman",
+      "ctime": "2019-03-22T19:24:57.000Z",
+      "title": "Tweet by @ValerieBreiman",
+      "text": "THIS JUST HAPPENED LIVE!!!",
+      "url": "https://twitter.com/ValerieBreiman/status/1109174141792321537",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::_jasonmit"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::CptnSlaughter",
+      "ctime": "2019-03-21T16:21:21.000Z",
+      "title": "Tweet by @CptnSlaughter",
+      "text": "Go away Google. Just let Inbox and I enjoy our final days together in peace.",
+      "url": "https://twitter.com/CptnSlaughter/status/1108765547699671040",
+      "preview": "https://pbs.twimg.com/media/D2MgY0fVYAAXZKj.jpg",
+      "hashtags": [],
+      "origin": "twitter::_jasonmit"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::lihautan",
+      "ctime": "2019-03-20T14:11:09.000Z",
+      "title": "Tweet by @lihautan",
+      "text": "So proud of my contribution to babel! 🥰\nCheck out the release notes for babel 7.4.0: https://twitter.com/NicoloRibaudo/status/1108112481816363010 …",
+      "url": "https://twitter.com/NicoloRibaudo/status/1108112481816363010",
+      "preview": "https://pbs.twimg.com/media/D2G4y4KUkAUicG_.jpg",
+      "hashtags": [],
+      "origin": "twitter::_jasonmit"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::jaffathecake",
+      "ctime": "2019-03-19T13:10:39.000Z",
+      "title": "Tweet by @jaffathecake",
+      "text": "📝 Who has the fastest website in F1? A deep-dive on:\n\n🏁 How to test for performance.\n🏁 How to interpret WebPageTest results.\n🏁 How to optimise images.\n🏁 Analysing code coverage.\n🏁 How to avoid common performance pitfalls.",
+      "url": "https://jakearchibald.com/2019/f1-perf/",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::addyosmani"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::addyosmani",
+      "ctime": "2019-03-19T06:30:00.000Z",
+      "title": "Tweet by @addyosmani",
+      "text": "Learn how real users experience your site with the @ChromeUXReport Dashboard: https://bit.ly/crux-dashboard  ~Includes data for 5M sites, such as:\n\n📈 Speed: First Contentful Paint, First Input Delay\n📱 Device distribution\n📡 Connection distribution (4G, 3G etc)",
+      "url": "https://bit.ly/crux-dashboard",
+      "preview": "https://pbs.twimg.com/media/D11uiHLU4AA3wb7.png",
+      "hashtags": [],
+      "origin": "twitter::addyosmani"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::_jasonmit",
+      "ctime": "2019-03-18T20:43:30.000Z",
+      "title": "Tweet by @_jasonmit",
+      "text": "this.transitionTo('emberconf', '2019'); #EmberConf2019",
+      "url": "https://twitter.com/_jasonmit/status/1107744355962380288",
+      "preview": null,
+      "hashtags": [
+        "EmberConf2019"
+      ],
+      "origin": "twitter::_jasonmit"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::ChromeDevTools",
+      "ctime": "2019-03-18T19:00:01.000Z",
+      "title": "Tweet by @ChromeDevTools",
+      "text": "New in Chrome 74: Long tasks in Performance panel recordings. https://developers.google.com/web/updates/2019/03/devtools#longtasks …",
+      "url": "https://developers.google.com/web/updates/2019/03/devtools#longtasks",
+      "preview": "https://pbs.twimg.com/media/D1ejn1_U8AMasri.png",
+      "hashtags": [
+        "longtasks"
+      ],
+      "origin": "twitter::_jasonmit"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::jamenta",
+      "ctime": "2019-03-18T15:45:03.000Z",
+      "title": "Tweet by @jamenta",
+      "text": "@markherman54 RT @historylvrsclub\n\nThe first & last portrait photos of Lincoln as President: May 1860 & Feb 1865. See more pics: (link: http://cmore.pics/khohr ) http://cmore.pics/khohr  (link: ) https://twitter.com/historylvrsclub/status/1107663714499653632/photo/1pic.twitter.com/C98MbouRVM ",
+      "url": "http://cmore.pics/khohr",
+      "preview": "https://pbs.twimg.com/media/D182N3wWoAIdWx7.jpg",
+      "hashtags": [],
+      "origin": "twitter::_jasonmit"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::addyosmani",
+      "ctime": "2019-03-18T06:30:00.000Z",
+      "title": "Tweet by @addyosmani",
+      "text": "Use Webpack? Learn how to set a budget for JavaScript bundle sizes with Performance Hints: https://bit.ly/webpack-pb ",
+      "url": "https://bit.ly/webpack-pb",
+      "preview": "https://pbs.twimg.com/media/D11l91iVAAANSDf.png",
+      "hashtags": [],
+      "origin": "twitter::addyosmani"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::addyosmani",
+      "ctime": "2019-03-17T07:30:00.000Z",
+      "title": "Tweet by @addyosmani",
+      "text": "Shipping soon: the \"stale-while-revalidate\" HTTP Cache-Control directive: https://bit.ly/swr-blink  sets a grace period in which browsers can use an out of date (stale) asset while checking on a new version. Hides latency (network, server) from clients. https://bit.ly/cache-swr ",
+      "url": "https://bit.ly/swr-blink",
+      "preview": "https://pbs.twimg.com/media/D109_R7UwAoHFaB.png",
+      "hashtags": [],
+      "origin": "twitter::addyosmani"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::changelog",
+      "ctime": "2019-03-16T13:34:09.000Z",
+      "title": "Tweet by @changelog",
+      "text": "when you have the API memorized",
+      "url": "https://twitter.com/changelog/status/1106911532762492935",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::_jasonmit"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::swyx",
+      "ctime": "2019-03-15T20:10:49.000Z",
+      "title": "Tweet by @swyx",
+      "text": "Make it work\nMake it right\nMake it fast\nMake it look gooooood 😎",
+      "url": "https://twitter.com/swyx/status/1106648970074324992",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::_jasonmit"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::kurteichenwald",
+      "ctime": "2019-03-14T18:05:18.000Z",
+      "title": "Tweet by @kurteichenwald",
+      "text": "All of the children murdered at Sandy Hook would have now been teenagers.\n\nAnd we have done nothing. \n\nOne measure of the morality of a nation is how it acts to protect its children. \n\nAnd we have done nothing.",
+      "url": "https://twitter.com/kurteichenwald/status/1106254994636984320",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::_jasonmit"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::bmeurer",
+      "ctime": "2019-03-14T12:35:52.000Z",
+      "title": "Tweet by @bmeurer",
+      "text": "Unpopular opinion: To run a project successfully, you generally need two kinds of people: those who are good at execution and those who are good at challenging the status quo, and need to strike a healthy balance between them, they need to see eye to eye, and respect each other.",
+      "url": "https://twitter.com/bmeurer/status/1106172089751531520",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::_jasonmit"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::addyosmani",
+      "ctime": "2019-03-13T06:34:39.000Z",
+      "title": "Tweet by @addyosmani",
+      "text": "Announcing Lite Pages for Chrome: https://bit.ly/lite-pages  ~ a faster loading experience for users on *very* slow networks. Opt-in via Data Saver for smarter server pre-rendering & prioritization of page sub-resources. Works on HTTPS.",
+      "url": "https://bit.ly/lite-pages",
+      "preview": "https://pbs.twimg.com/media/D1hMPaQU0AAXLyR.png",
+      "hashtags": [],
+      "origin": "twitter::addyosmani"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::rauschma",
+      "ctime": "2019-03-12T22:42:30.000Z",
+      "title": "Tweet by @rauschma",
+      "text": "Awesome! Chrome 73 lets you install Progressive Web Apps natively on macOS.",
+      "url": "https://twitter.com/rauschma/status/1105599978880331777",
+      "preview": "https://pbs.twimg.com/media/D1fhNVNXgAAeiI2.jpg",
+      "hashtags": [],
+      "origin": "twitter::_jasonmit"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::oligriffiths",
+      "ctime": "2019-03-12T14:56:03.000Z",
+      "title": "Tweet by @oligriffiths",
+      "text": "If anyone has feels on Broccoli.js plugins, I wrote some documentation to get us started https://github.com/broccolijs/broccolijs.github.io/pull/8 …\n\nFeel free to throw in your 2 cents, all feedback welcome 😊\n\nThis will end up on http://broccoli.build \n\n#broccolijs #emberjs 🥦",
+      "url": "https://github.com/broccolijs/broccolijs.github.io/pull/8",
+      "preview": null,
+      "hashtags": [
+        "broccolijs",
+        "emberjs"
+      ],
+      "origin": "twitter::_jasonmit"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::domenic",
+      "ctime": "2019-03-12T14:42:58.000Z",
+      "title": "Tweet by @domenic",
+      "text": "Very excited to be shipping a trial version of KV storage, the web's first built-in module, plus import maps, for controlling the behavior of JavaScript imports!\n\n- https://developers.google.com/web/updates/2019/03/kv-storage …\n- https://wicg.github.io/kv-storage/  \n-",
+      "url": "https://developers.google.com/web/updates/2019/03/kv-storage",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::_jasonmit"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::dan_abramov",
+      "ctime": "2019-03-11T05:04:14.000Z",
+      "title": "Tweet by @dan_abramov",
+      "text": "In the best traditions of my rambling longreads, I am presenting my longest post yet. (I wrote it today.)\n\n📝 New on Overreacted: an in-depth look at useEffect.",
+      "url": "https://overreacted.io/a-complete-guide-to-useeffect/",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::addyosmani"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::addyosmani",
+      "ctime": "2019-03-10T07:30:00.000Z",
+      "title": "Tweet by @addyosmani",
+      "text": "Use React? Render large lists efficiently with react-window: https://bit.ly/react-window  ~small library for virtualizing lists & grids. Renders what users can see vs all your items at once ⚡️",
+      "url": "https://bit.ly/react-window",
+      "preview": "https://pbs.twimg.com/media/D1QycDIU0AEg357.png",
+      "hashtags": [],
+      "origin": "twitter::addyosmani"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::addyosmani",
+      "ctime": "2019-03-07T07:27:04.000Z",
+      "title": "Tweet by @addyosmani",
+      "text": "In @ChromeDevTools, hovering over a CSS property (e.g padding, margin) now highlights nodes impacted by it. Here's hovering over \"padding\" (green):",
+      "url": "https://twitter.com/addyosmani/status/1103557662799589376",
+      "preview": "https://pbs.twimg.com/media/D1Cf10vUwAAANxi.jpg",
+      "hashtags": [],
+      "origin": "twitter::addyosmani"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::katiehempenius",
+      "ctime": "2019-03-05T18:51:12.000Z",
+      "title": "Tweet by @katiehempenius",
+      "text": "Page Weight Percentiles: overall & by resource type\n\nIf one of these categories is super high for a site, it's often an indicator that there's \"low hanging fruit\" performance wins to be had by optimizing that resource type.\n\n(Data source: @HTTPArchive, Desktop Oct'18 data)",
+      "url": "https://twitter.com/katiehempenius/status/1103005053353369600",
+      "preview": "https://pbs.twimg.com/media/D06n-J8WsAE1XMS.jpg",
+      "hashtags": [],
+      "origin": "twitter::addyosmani"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::jaffathecake",
+      "ctime": "2019-03-04T06:54:49.000Z",
+      "title": "Tweet by @jaffathecake",
+      "text": "Cache-Control for civilians, by @csswizardry",
+      "url": "csswizardryhttps://csswizardry.com/2019/03/cache-control-for-civilians/",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::addyosmani"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::matteocollina",
+      "ctime": "2019-03-02T18:20:20.000Z",
+      "title": "Tweet by @matteocollina",
+      "text": "I've just landed once(emitter, 'my-event') => Promise. A little utility to make your EventEmitter a little bit more promise-friendly: https://github.com/nodejs/node/pull/26078 ….",
+      "url": "https://github.com/nodejs/node/pull/26078",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::matteocollina"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::katiehempenius",
+      "ctime": "2019-02-27T18:28:38.000Z",
+      "title": "Tweet by @katiehempenius",
+      "text": "One image size is rarely ideal for all devices.\n\n👇 The TLDR; of using \"srcset\" and \"sizes\" to serve multiple sizes of an image.\n\nMore on this here: http://bit.ly/multiple-image-sizes …",
+      "url": "http://bit.ly/multiple-image-sizes",
+      "preview": "https://pbs.twimg.com/media/D0bm0HNWoAAF0lR.jpg",
+      "hashtags": [],
+      "origin": "twitter::addyosmani"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::addyosmani",
+      "ctime": "2019-02-27T07:31:21.000Z",
+      "title": "Tweet by @addyosmani",
+      "text": "Chrome is exploring a new back/forward cache. It caches pages in-memory (preserving JavaScript & DOM state) when the user navigates away. This could improve performance for 19% of all navigations for mobile:\n\nhttps://bit.ly/bfcache \nhttps://cnet.co/2BR60ow ",
+      "url": "https://bit.ly/bfcache",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::addyosmani"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::katiehempenius",
+      "ctime": "2019-02-22T13:18:55.000Z",
+      "title": "Tweet by @katiehempenius",
+      "text": "📊 Where is mobile faster than wifi? (and vice versa) 👇\n\nIn the US, wifi tends to be faster than mobile, but this is not a universal phenomenon. \"In 41% of countries mobile was faster than wifi.\"\n\nData source: @opensignal\nhttps://www.opensignal.com/sites/opensignal-com/files/data/reports/global/data-2018-11/state_of_wifi_vs_mobile_opensignal_201811.pdf …",
+      "url": "https://www.opensignal.com/sites/opensignal-com/files/data/reports/global/data-2018-11/state_of_wifi_vs_mobile_opensignal_201811.pdf",
+      "preview": "https://pbs.twimg.com/media/D0AyL0EW0AADZ2G.jpg",
+      "hashtags": [],
+      "origin": "twitter::addyosmani"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::mgechev",
+      "ctime": "2019-02-07T03:56:13.000Z",
+      "title": "Tweet by @mgechev",
+      "text": "⚡️ Make sure you update Angular CLI to 7.3 to take advantage of differential polyfill loading\n\n🔸 CLI will produce two polyfill bundles - for older (larger) and for modern browsers (smaller)\n🔸 Users with modern browsers will get fewer bytes of JS => faster parsing & execution 💨",
+      "url": "https://twitter.com/mgechev/status/1093357741068869632",
+      "preview": "https://pbs.twimg.com/media/DyxjEKoU0AA0uA1.jpg",
+      "hashtags": [],
+      "origin": "twitter::addyosmani"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::addyosmani",
+      "ctime": "2018-08-02T06:30:25.000Z",
+      "title": "Tweet by @addyosmani",
+      "text": "📣 \"The Cost Of JavaScript In 2018\"",
+      "url": "https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::addyosmani"
+    },
+    {
+      "type": "twitter::tweet",
+      "author": "twitter::MinaMarkham",
+      "ctime": "2016-08-31T16:18:09.000Z",
+      "title": "Tweet by @MinaMarkham",
+      "text": "I built Hillary Clinton's design system and wrote a thing about it.",
+      "url": "https://medium.com/git-out-the-vote/pantsuit-the-hillary-clinton-ui-pattern-library-238e9bf06b54#.c6rnwv18f",
+      "preview": null,
+      "hashtags": [],
+      "origin": "twitter::MinaMarkham"
+    }
+  ],
+  "profiles": {
+    "twitter::addyosmani": {
+      "id": "twitter::addyosmani",
+      "username": "addyosmani",
+      "pic": "https://pbs.twimg.com/profile_images/1053159168197111808/8eipWrau_400x400.jpg",
+      "url": "https://twitter.com/addyosmani"
+    },
+    "twitter::MinaMarkham": {
+      "id": "twitter::MinaMarkham",
+      "username": "MinaMarkham",
+      "pic": "https://pbs.twimg.com/profile_images/818997879696195584/1_vmf7bc_400x400.jpg",
+      "url": "https://twitter.com/MinaMarkham"
+    },
+    "twitter::JavaScriptDaily": {
+      "id": "twitter::JavaScriptDaily",
+      "username": "JavaScriptDaily",
+      "pic": "https://pbs.twimg.com/profile_images/988505844915556354/lgUSY3mZ_400x400.jpg",
+      "url": "https://twitter.com/JavaScriptDaily"
+    },
+    "twitter::kemitchell": {
+      "id": "twitter::kemitchell",
+      "username": "kemitchell",
+      "pic": "https://pbs.twimg.com/profile_images/964740338232442880/mnKuXOhq_400x400.jpg",
+      "url": "https://twitter.com/kemitchell"
+    },
+    "twitter::cjihrig": {
+      "id": "twitter::cjihrig",
+      "username": "cjihrig",
+      "pic": "https://pbs.twimg.com/profile_images/378800000549493356/5b175bf7ba685746b498fee1954ac149_400x400.png",
+      "url": "https://twitter.com/cjihrig"
+    },
+    "twitter::mikeal": {
+      "id": "twitter::mikeal",
+      "username": "mikeal",
+      "pic": "https://pbs.twimg.com/profile_images/700824335624249348/SkxQsdhq_400x400.png",
+      "url": "https://twitter.com/mikeal"
+    },
+    "twitter::tlivings": {
+      "id": "twitter::tlivings",
+      "username": "tlivings",
+      "pic": "https://pbs.twimg.com/profile_images/882462555477856256/gtFpvSB2_400x400.jpg",
+      "url": "https://twitter.com/tlivings"
+    },
+    "twitter::mafintosh": {
+      "id": "twitter::mafintosh",
+      "username": "mafintosh",
+      "pic": "https://pbs.twimg.com/profile_images/907970058625875968/7ecTxUP4_400x400.jpg",
+      "url": "https://twitter.com/mafintosh"
+    },
+    "twitter::trygve_lie": {
+      "id": "twitter::trygve_lie",
+      "username": "trygve_lie",
+      "pic": "https://pbs.twimg.com/profile_images/2806738283/d5b415773ca57b9400b723cfee734d3a_400x400.jpeg",
+      "url": "https://twitter.com/trygve_lie"
+    },
+    "twitter::koste4": {
+      "id": "twitter::koste4",
+      "username": "koste4",
+      "pic": "https://pbs.twimg.com/profile_images/1085048300875575296/4mdCfXDR_400x400.jpg",
+      "url": "https://twitter.com/koste4"
+    },
+    "twitter::notwaldorf": {
+      "id": "twitter::notwaldorf",
+      "username": "notwaldorf",
+      "pic": "https://pbs.twimg.com/profile_images/779808817785675776/Hf9AwdFs_400x400.jpg",
+      "url": "https://twitter.com/notwaldorf"
+    },
+    "twitter::adrianco": {
+      "id": "twitter::adrianco",
+      "username": "adrianco",
+      "pic": "https://pbs.twimg.com/profile_images/3710665744/673fe1a0055ca23bf19e7f3e6de4f089_400x400.png",
+      "url": "https://twitter.com/adrianco"
+    },
+    "twitter::ohhoe": {
+      "id": "twitter::ohhoe",
+      "username": "ohhoe",
+      "pic": "https://pbs.twimg.com/profile_images/952990113696542720/lzkzYJGR_400x400.jpg",
+      "url": "https://twitter.com/ohhoe"
+    },
+    "twitter::trott": {
+      "id": "twitter::trott",
+      "username": "trott",
+      "pic": "https://pbs.twimg.com/profile_images/460204257438748672/NE56U27B_400x400.jpeg",
+      "url": "https://twitter.com/trott"
+    },
+    "twitter::YellowBrickC": {
+      "id": "twitter::YellowBrickC",
+      "username": "YellowBrickC",
+      "pic": "https://pbs.twimg.com/profile_images/1448253003/chi_220x209-150x150_400x400.jpg",
+      "url": "https://twitter.com/YellowBrickC"
+    },
+    "twitter::matteocollina": {
+      "id": "twitter::matteocollina",
+      "username": "matteocollina",
+      "pic": "https://pbs.twimg.com/profile_images/796295496071606276/ssY_GJrF_400x400.jpg",
+      "url": "https://twitter.com/matteocollina"
+    },
+    "twitter::jessfraz": {
+      "id": "twitter::jessfraz",
+      "username": "jessfraz",
+      "pic": "https://pbs.twimg.com/profile_images/975665505699811329/80JhUSCw_400x400.jpg",
+      "url": "https://twitter.com/jessfraz"
+    },
+    "twitter::Cianomaidin": {
+      "id": "twitter::Cianomaidin",
+      "username": "Cianomaidin",
+      "pic": "https://pbs.twimg.com/profile_images/471335442168561665/KvkFC8Wt_400x400.jpeg",
+      "url": "https://twitter.com/Cianomaidin"
+    },
+    "twitter::BillGates": {
+      "id": "twitter::BillGates",
+      "username": "BillGates",
+      "pic": "https://pbs.twimg.com/profile_images/988775660163252226/XpgonN0X_400x400.jpg",
+      "url": "https://twitter.com/BillGates"
+    },
+    "twitter::jscamp": {
+      "id": "twitter::jscamp",
+      "username": "jscamp",
+      "pic": "https://pbs.twimg.com/profile_images/1087340012109221889/dXT22EOs_400x400.jpg",
+      "url": "https://twitter.com/jscamp"
+    },
+    "twitter::FINALLEVEL": {
+      "id": "twitter::FINALLEVEL",
+      "username": "FINALLEVEL",
+      "pic": "https://pbs.twimg.com/profile_images/909984858818170881/jagXDTlf_400x400.jpg",
+      "url": "https://twitter.com/FINALLEVEL"
+    },
+    "twitter::KeerthanaK17": {
+      "id": "twitter::KeerthanaK17",
+      "username": "KeerthanaK17",
+      "pic": "https://pbs.twimg.com/profile_images/1090311071036977153/nbCxCd5f_400x400.jpg",
+      "url": "https://twitter.com/KeerthanaK17"
+    },
+    "twitter::apbenven": {
+      "id": "twitter::apbenven",
+      "username": "apbenven",
+      "pic": "https://pbs.twimg.com/profile_images/1105457846173532160/EGYK6lYK_400x400.jpg",
+      "url": "https://twitter.com/apbenven"
+    },
+    "twitter::kdotx3": {
+      "id": "twitter::kdotx3",
+      "username": "kdotx3",
+      "pic": "https://pbs.twimg.com/profile_images/1112936140561158144/PPRT95ED_400x400.jpg",
+      "url": "https://twitter.com/kdotx3"
+    },
+    "twitter::kwilli1046": {
+      "id": "twitter::kwilli1046",
+      "username": "kwilli1046",
+      "pic": "https://pbs.twimg.com/profile_images/1036746541401350144/I5K2nZoT_400x400.jpg",
+      "url": "https://twitter.com/kwilli1046"
+    },
+    "twitter::MOONEM0Jl": {
+      "id": "twitter::MOONEM0Jl",
+      "username": "MOONEM0Jl",
+      "pic": "https://pbs.twimg.com/profile_images/1108215200854011904/RBMa9bbj_400x400.jpg",
+      "url": "https://twitter.com/MOONEM0Jl"
+    },
+    "twitter::roelvangils": {
+      "id": "twitter::roelvangils",
+      "username": "roelvangils",
+      "pic": "https://pbs.twimg.com/profile_images/903533802877837312/sMUI6f-e_400x400.jpg",
+      "url": "https://twitter.com/roelvangils"
+    },
+    "twitter::rickhanlonii": {
+      "id": "twitter::rickhanlonii",
+      "username": "rickhanlonii",
+      "pic": "https://pbs.twimg.com/profile_images/1090901136029216773/_2pbDnI4_400x400.jpg",
+      "url": "https://twitter.com/rickhanlonii"
+    },
+    "twitter::katiehempenius": {
+      "id": "twitter::katiehempenius",
+      "username": "katiehempenius",
+      "pic": "https://pbs.twimg.com/profile_images/1044301363323305985/hMfyLH9-_400x400.jpg",
+      "url": "https://twitter.com/katiehempenius"
+    },
+    "twitter::slicknet": {
+      "id": "twitter::slicknet",
+      "username": "slicknet",
+      "pic": "https://pbs.twimg.com/profile_images/637638517770752000/tejK-Ehv_400x400.jpg",
+      "url": "https://twitter.com/slicknet"
+    },
+    "twitter::MrAlanCooper": {
+      "id": "twitter::MrAlanCooper",
+      "username": "MrAlanCooper",
+      "pic": "https://pbs.twimg.com/profile_images/853068030657519616/_kUL8qw9_400x400.jpg",
+      "url": "https://twitter.com/MrAlanCooper"
+    },
+    "twitter::fharper": {
+      "id": "twitter::fharper",
+      "username": "fharper",
+      "pic": "https://pbs.twimg.com/profile_images/927755013237096448/3IsFj94H_400x400.jpg",
+      "url": "https://twitter.com/fharper"
+    },
+    "twitter::CptnSlaughter": {
+      "id": "twitter::CptnSlaughter",
+      "username": "CptnSlaughter",
+      "pic": "https://pbs.twimg.com/profile_images/984317003878944768/W8-DLphS_400x400.jpg",
+      "url": "https://twitter.com/CptnSlaughter"
+    },
+    "twitter::ValerieBreiman": {
+      "id": "twitter::ValerieBreiman",
+      "username": "ValerieBreiman",
+      "pic": "https://pbs.twimg.com/profile_images/939618601346121728/TlDgXyy7_400x400.jpg",
+      "url": "https://twitter.com/ValerieBreiman"
+    },
+    "twitter::lihautan": {
+      "id": "twitter::lihautan",
+      "username": "lihautan",
+      "pic": "https://pbs.twimg.com/profile_images/1100040104754610178/kSgYjCmM_400x400.png",
+      "url": "https://twitter.com/lihautan"
+    },
+    "twitter::jaffathecake": {
+      "id": "twitter::jaffathecake",
+      "username": "jaffathecake",
+      "pic": "https://pbs.twimg.com/profile_images/1695239906/me_400x400.jpg",
+      "url": "https://twitter.com/jaffathecake"
+    },
+    "twitter::ChromeDevTools": {
+      "id": "twitter::ChromeDevTools",
+      "username": "ChromeDevTools",
+      "pic": "https://pbs.twimg.com/profile_images/762579160099385344/w5MfsnMn_400x400.jpg",
+      "url": "https://twitter.com/ChromeDevTools"
+    },
+    "twitter::_jasonmit": {
+      "id": "twitter::_jasonmit",
+      "username": "_jasonmit",
+      "pic": "https://pbs.twimg.com/profile_images/940821222669082624/fTj2Q-g1_400x400.jpg",
+      "url": "https://twitter.com/_jasonmit"
+    },
+    "twitter::jamenta": {
+      "id": "twitter::jamenta",
+      "username": "jamenta",
+      "pic": "https://pbs.twimg.com/profile_images/447775478988804097/Pb2tPZ4H_400x400.png",
+      "url": "https://twitter.com/jamenta"
+    },
+    "twitter::changelog": {
+      "id": "twitter::changelog",
+      "username": "changelog",
+      "pic": "https://pbs.twimg.com/profile_images/976117293179584515/Yqd_Stzc_400x400.jpg",
+      "url": "https://twitter.com/changelog"
+    },
+    "twitter::kurteichenwald": {
+      "id": "twitter::kurteichenwald",
+      "username": "kurteichenwald",
+      "pic": "https://pbs.twimg.com/profile_images/1075560867951828992/PdJvCxzq_400x400.jpg",
+      "url": "https://twitter.com/kurteichenwald"
+    },
+    "twitter::swyx": {
+      "id": "twitter::swyx",
+      "username": "swyx",
+      "pic": "https://pbs.twimg.com/profile_images/990728399873232896/CMPn3IxT_400x400.jpg",
+      "url": "https://twitter.com/swyx"
+    },
+    "twitter::rauschma": {
+      "id": "twitter::rauschma",
+      "username": "rauschma",
+      "pic": "https://pbs.twimg.com/profile_images/467581434434453504/iFzELOBn_400x400.jpeg",
+      "url": "https://twitter.com/rauschma"
+    },
+    "twitter::bmeurer": {
+      "id": "twitter::bmeurer",
+      "username": "bmeurer",
+      "pic": "https://pbs.twimg.com/profile_images/1039575366694780928/59vGfRSL_400x400.jpg",
+      "url": "https://twitter.com/bmeurer"
+    },
+    "twitter::oligriffiths": {
+      "id": "twitter::oligriffiths",
+      "username": "oligriffiths",
+      "pic": "https://pbs.twimg.com/profile_images/555037827470094336/IZqfcuMX_400x400.jpeg",
+      "url": "https://twitter.com/oligriffiths"
+    },
+    "twitter::domenic": {
+      "id": "twitter::domenic",
+      "username": "domenic",
+      "pic": "https://pbs.twimg.com/profile_images/1242456782/172077_1728486445722_1045260014_31786988_5684247_o_400x400.jpg",
+      "url": "https://twitter.com/domenic"
+    },
+    "twitter::mgechev": {
+      "id": "twitter::mgechev",
+      "username": "mgechev",
+      "pic": "https://pbs.twimg.com/profile_images/1091566568100655104/Eh4UqM6e_400x400.jpg",
+      "url": "https://twitter.com/mgechev"
+    },
+    "twitter::dan_abramov": {
+      "id": "twitter::dan_abramov",
+      "username": "dan_abramov",
+      "pic": "https://pbs.twimg.com/profile_images/1096807971374448640/rVCDhxkG_400x400.png",
+      "url": "https://twitter.com/dan_abramov"
+    },
+    "instagram::i_love_being_healthy_88": {
+      "id": "instagram::i_love_being_healthy_88",
+      "username": "i_love_being_healthy_88",
+      "pic": "https://scontent-arn2-1.cdninstagram.com/vp/6c5d17cc10ba1e5a15a0b19c79f98f02/5D3287E7/t51.2885-19/s150x150/51762375_2083299975088342_3605199886179368960_n.jpg?_nc_ht=scontent-arn2-1.cdninstagram.com",
+      "url": "https://instagram.com/i_love_being_healthy_88"
+    }
+  },
+  "ctime": "2019-04-07T07:35:06.558Z"
+}
